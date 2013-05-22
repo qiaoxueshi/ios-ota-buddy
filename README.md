@@ -26,9 +26,9 @@ This tool will help you extract the provisioning profile used, create the necess
 #### Usage
 5.Extract the .mobileprovision to adhoc.mobileprovision by running  
   
-  ```
-  ./otabuddy provisioning application.ipa adhoc.mobileprovision
-  ```
+```
+./otabuddy provisioning application.ipa adhoc.mobileprovision
+```
   
 6.Create the .plist file by running  
 
