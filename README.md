@@ -24,9 +24,9 @@ This tool will help you extract the provisioning profile used, create the necess
 4. Enable execution "chmod +x otabuddy.sh"
 
 #### Usage
-5. Extract the .mobileprovision to adhoc.mobileprovision by running "./otabuddy provisioning application.ipa adhoc.mobileprovision"
-6. Create the .plist file by running "./otabuddy.sh plist application.ipa http://domain.com/path/distribution/application.ipa application.plist"
-7. Generate the itms-services link by running "./otabuddy.sh itms http://domain.com/path/distribution/application.plist"
-8. Create a HTML-file with an anchor with the itms-link created in step 7 and a link to the provisioning profile extracted in 5.
-9. Visit your HTML-file and download your application. Remember to download the provisioning profile first.
-10. Enjoy!
+5.Extract the .mobileprovision to adhoc.mobileprovision by running "./otabuddy provisioning application.ipa adhoc.mobileprovision"  
+6.Create the .plist file by running "./otabuddy.sh plist application.ipa http://domain.com/path/distribution/application.ipa application.plist"   
+7.Generate the itms-services link by running "./otabuddy.sh itms http://domain.com/path/distribution/application.plist"  
+8.Create a HTML-file with an anchor with the itms-link created in step 7 and a link to the provisioning profile extracted in 5.  
+9.Visit your HTML-file and download your application. Remember to download the provisioning profile first.  
+10.Enjoy!  
